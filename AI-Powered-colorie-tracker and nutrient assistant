@@ -1,5 +1,1 @@
-%%capture
-import warnings
-warnings.filterwarnings("ignore")
 
-!pip install langchain langchain-community openai requests gradio --quiet
